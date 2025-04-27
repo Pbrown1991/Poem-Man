@@ -1,5 +1,5 @@
 The Rainbow
-
+Sylvia Plath
 Purple
 Pink
 Orange
@@ -10,3 +10,4 @@ Changes 1
 Changes 2
 Ted hughes
 Mark Twain
+
